@@ -131,3 +131,4 @@ A partir disso, o HTML é impactado visualmente.
 - One shot: unica pergunta sem muito contexto
 - Few shot: é apresentado exemplos do que se espera
 - Chain of Thought: cadeia de pensamento para a IA responder gradativamento conforme a instrução# NLW
+# NLW
