@@ -132,3 +132,4 @@ A partir disso, o HTML é impactado visualmente.
 - Few shot: é apresentado exemplos do que se espera
 - Chain of Thought: cadeia de pensamento para a IA responder gradativamento conforme a instrução# NLW
 # NLW
+# NLW
